@@ -1,4 +1,12 @@
 .box{
-  border:1px solid coral;
+  border:5px ridge cornflowerblue;
+  border-radius: 5%;
   margin:10px;
+  text-align:center;
+  font-weight: 800;
+  color: rgb(109, 153, 83);
+  width:200px;
+
 }
+
+
